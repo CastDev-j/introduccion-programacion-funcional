@@ -1,2 +1,1 @@
-
-console.log("Hola mundo");
+// Contenido pendiente
