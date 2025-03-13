@@ -8,6 +8,7 @@ Los estudiantes deben descargar el repositorio y usar los codigos del repositori
 
 ```
 -code
+    - 00-Typescript_Funciona.ts
     - 01_Introduccion.ts
     - 02_Inmutabilidad.ts
     - 03_Funciones_Puras.ts
