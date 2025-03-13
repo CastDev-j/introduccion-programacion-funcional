@@ -7,7 +7,7 @@ Los estudiantes deben descargar el repositorio y usar los codigos del repositori
 ## **Estructura del Repositorio**
 
 ```
--codigo
+-code
     - 01_Introduccion.ts
     - 02_Inmutabilidad.ts
     - 03_Funciones_Puras.ts
