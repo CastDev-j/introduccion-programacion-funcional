@@ -2,6 +2,8 @@
 
 Este repositorio contiene ejemplos y explicaciones sobre los conceptos fundamentales de la programación funcional utilizando TypeScript.
 
+Los estudiantes deben descargar el repositorio y usar los codigos del repositorio para seguir las explicaciones y realizar ejercicios del taller.
+
 ## **Estructura del Repositorio**
 
 ```
