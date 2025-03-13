@@ -14,7 +14,6 @@ Los estudiantes deben descargar el repositorio y usar los codigos del repositori
     - 04_Higher_Order_Functions.ts
     - 05_Closures.ts
     - 06_Composicion.ts
-    - 07_Recursion.ts
 - README.md
 ```
 
