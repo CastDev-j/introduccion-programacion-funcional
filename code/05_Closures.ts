@@ -1,3 +1,5 @@
+//! Contenido pendiente
+
 // Objetivo: Explicar cómo funcionan los closures y por qué son útiles.
 
     // Definición de closure.

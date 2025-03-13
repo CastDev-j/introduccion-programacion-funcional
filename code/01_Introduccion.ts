@@ -1,3 +1,5 @@
+//! Contenido pendiente
+
 // Objetivo: Explicar qué es la programación funcional y sus beneficios.
 
     // Definición de programación funcional.

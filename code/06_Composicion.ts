@@ -1,3 +1,5 @@
+//! Contenido pendiente
+
 // Objetivo: Mostrar cómo combinar funciones para mejorar el código.
 
     // ¿Qué es la composición de funciones?

@@ -1,3 +1,5 @@
+//! Contenido pendiente
+
 // Objetivo: Explicar por qué la inmutabilidad es clave en la programación funcional.
 
     // ¿Qué es la inmutabilidad?

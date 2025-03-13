@@ -1,3 +1,5 @@
+//! Contenido pendiente
+
 // Objetivo: Explicar las funciones puras y sus ventajas.
 
     // Definición de función pura.

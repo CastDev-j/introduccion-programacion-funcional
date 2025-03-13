@@ -1,3 +1,5 @@
+//! Contenido pendiente
+
 // Objetivo: Introducir funciones de orden superior y su utilidad.
 
     // Definición de funciones de orden superior.
