@@ -13,7 +13,7 @@ Los estudiantes deben descargar el repositorio y usar los codigos del repositori
     - 02_Inmutabilidad.ts
     - 03_Funciones_Puras.ts
     - 04_Higher_Order_Functions.ts
-    - 05_Closures.ts
+    - 05_Callbacks.ts
     - 06_Composicion.ts
 - README.md
 ```
@@ -30,5 +30,5 @@ Los estudiantes deben descargar el repositorio y usar los codigos del repositori
 2. **Inmutabilidad** - Uso de estructuras de datos inmutables.
 3. **Funciones Puras** - Creación de funciones sin efectos secundarios.
 4. **Funciones de Orden Superior** - Funciones que toman otras funciones como argumento o devuelven funciones.
+5. **Callbacks** - Uso de funciones de orden superior para manejar eventos y asincronía.
 6. **Composición de Funciones** - Cómo combinar funciones para mejorar la reutilización del código.
-7. **Recursión** - Alternativa a los bucles en programación funcional.
