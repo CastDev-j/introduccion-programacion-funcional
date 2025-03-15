@@ -6,7 +6,9 @@
 const numeros = [1, 2, 3, 4, 5];
 
 // Usando map para multiplicar cada número por 2
-const dobles = numeros.map((num) => num * 2);
+
+const duplicar = (num: number) => num * 2;
+const dobles = numeros.map(duplicar);
 
 console.log(dobles); // [2, 4, 6, 8, 10]
 
