@@ -7,9 +7,9 @@ const calcularEstadisticas = (
   valores: number[]
 ): { suma: number; promedio: number } => {
   // Implementa aquí la solución usando reduce
-
-
-  return { suma: 0, promedio: 0 };
+  const suma = valores.reduce((prev: number, curr: number) => prev + curr, 0);
+  const promedio = suma / valores.length;
+  return { suma, promedio };
 };
 
 console.log(calcularEstadisticas(valores));

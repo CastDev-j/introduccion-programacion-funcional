@@ -5,8 +5,7 @@ const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // Escribe una función que filtre los números pares y los eleve al cuadrado
 const transformarPares = (numeros: number[]): number[] => {
   // Implementa aquí la solución usando filter y map
-
-  return [];
+  return numeros.filter((num) => num % 2 === 0).map((num) => num ** 2);
 };
 
 console.log(transformarPares(numeros));
