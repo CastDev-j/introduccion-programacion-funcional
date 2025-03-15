@@ -6,22 +6,24 @@ const nombres = ["andres", "maria", "pedro", "laura"];
 const capitalizar = (nombre: string): string => {
   // Implementa la función
 
-  return "";
+  return '';
 };
 
 // Función que agrega un emoji al final del nombre 😊
 const agregarEmoji = (nombre: string): string => {
   // Implementa la función
 
-  return "";
+
+  return '';
 };
 
 // Función que combina las dos funciones anteriores
 const capitalizarYAgregarEmoji = (nombre: string): string => {
   // Implementa la función
-
-  return "";
+  return '';
 };
 
 // Mapea los nombres con la función compuesta
 const nombresFormateados = nombres.map(capitalizarYAgregarEmoji);
+
+console.log(nombresFormateados); // Salida esperada: ["Andres 😊", "Maria 😊", "Pedro 😊", "Laura 😊"]
