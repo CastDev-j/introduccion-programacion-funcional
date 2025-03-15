@@ -3,12 +3,11 @@
 //* map
 // El método `map` crea un nuevo array con los resultados de llamar a una función proporcionada en cada elemento del array que llama.
 
-const numeros = [1, 2, 3, 4, 5];
+const listaNumeros = [1, 2, 3, 4, 5];
 
 // Usando map para multiplicar cada número por 2
 
-const duplicar = (num: number) => num * 2;
-const dobles = numeros.map(duplicar);
+const dobles = numeros.map((num) => num * 2);
 
 console.log(dobles); // [2, 4, 6, 8, 10]
 
@@ -58,7 +57,7 @@ console.log(resultado2); // 24 (6 + 8 + 10)
 
 //* Ejemplo 3: map y forEach
 
-const nombres = ["Ana", "Juan", "Pedro", "Maria"];
+const listaNombres = ["Ana", "Juan", "Pedro", "Maria"];
 
 nombres
   .map((nombre) => nombre.toUpperCase())
