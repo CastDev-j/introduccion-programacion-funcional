@@ -6,7 +6,7 @@
 //?En la programación imperativa, el enfoque está en cómo se realizan las tareas, mediante el uso de declaraciones que cambian el estado del programa.
 //?En la programación declarativa, el enfoque está en qué se debe hacer, mediante la descripción de las relaciones y restricciones entre las variables.
 
-//* Principios clave: inmutabilidad, funciones puras, composición, etc.
+//* Principios clave: inmutabilidad, funciones puras, callbacks, etc.
 
 //* Ejemplo básico de una función en estilo funcional vs. imperativo.
 
