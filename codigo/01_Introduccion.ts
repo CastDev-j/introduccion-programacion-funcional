@@ -11,6 +11,7 @@
 //* Ejemplo básico de una función en estilo funcional vs. imperativo.
 
 const arregloNumeros = [1, 2, 3, 4, 5];
+console.log(arregloNumeros); // [1, 2, 3, 4, 5]
 const multiplicarPorDos = (numero: number): number => numero * 2;
 
 // Estilo imperativo
@@ -23,5 +24,4 @@ console.log(doblesImperativos); // [2, 4, 6, 8, 10]
 // Estilo declarativo
 
 let doblesDeclarativos = arregloNumeros.map(multiplicarPorDos);
-console.log(arregloNumeros); // [1, 2, 3, 4, 5]
 console.log(doblesDeclarativos); // [2, 4, 6, 8, 10]
