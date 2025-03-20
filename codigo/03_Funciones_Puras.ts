@@ -10,7 +10,7 @@ const sumarPura = (a: number, b: number): number => a + b;
 //};
 
 
-console.log(sumar(2, 3)); // 5
+console.log(sumarPura(2, 3)); // 5
 
 //? Ejemplo de función impura.
 let resultado = 0;
